@@ -1,0 +1,8 @@
+{
+  "title": "Diese Woche",
+  "count_one": "{{count}} Training",
+  "count_other": "{{count}} Trainings",
+  "minutes_one": "{{count}} Minute Training",
+  "minutes_other": "{{count}} Minuten Training",
+  "start": "Training starten"
+}

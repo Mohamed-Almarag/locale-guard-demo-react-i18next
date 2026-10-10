@@ -1,0 +1,18 @@
+{
+  "title": "هذا الأسبوع",
+  "count_zero": "لا توجد تمارين",
+  "count_one": "تمرين واحد",
+  "count_two": "تمرينان",
+  "count_few": "{{count}} تمارين",
+  "count_many": "{{count}} تمرينًا",
+  "count_other": "{{count}} تمرين",
+  "minutes_one": "دقيقة تدريب واحدة",
+  "minutes_other": "{{count}} دقيقة تدريب",
+  "streak_zero": "لا توجد أيام متتالية",
+  "streak_one": "يوم واحد متتالٍ",
+  "streak_two": "يومان متتاليان",
+  "streak_few": "{{count}} أيام متتالية",
+  "streak_many": "{{count}} يومًا متتاليًا",
+  "streak_other": "{{count}} يوم متتالٍ",
+  "start": "ابدأ تمرينًا"
+}

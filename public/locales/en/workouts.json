@@ -1,0 +1,10 @@
+{
+  "title": "This week",
+  "count_one": "{{count}} workout",
+  "count_other": "{{count}} workouts",
+  "minutes_one": "{{count}} minute of training",
+  "minutes_other": "{{count}} minutes of training",
+  "streak_one": "{{count}} day in a row",
+  "streak_other": "{{count}} days in a row",
+  "start": "Start a workout"
+}
