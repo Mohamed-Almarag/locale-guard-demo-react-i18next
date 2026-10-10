@@ -1,0 +1,7 @@
+{
+  "title": "Weekly goal",
+  "sessions_one": "{{count}} Einheit pro Woche",
+  "progress": "{{done}} von {{target}} geschafft",
+  "reset": "Ziel zurücksetzen",
+  "reward": "Erreiche dein Ziel und schalte das Abzeichen {{badge}} frei"
+}
