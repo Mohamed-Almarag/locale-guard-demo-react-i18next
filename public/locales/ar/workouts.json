@@ -14,5 +14,15 @@
   "streak_few": "{{count}} أيام متتالية",
   "streak_many": "{{count}} يومًا متتاليًا",
   "streak_other": "{{count}} يوم متتالٍ",
-  "start": "ابدأ تمرينًا"
+  "start": "ابدأ تمرينًا",
+  "rest": {
+    "title": "أيام الراحة",
+    "planned_zero": "لا توجد أيام راحة مخططة",
+    "planned_one": "يوم راحة واحد مخطط",
+    "planned_two": "يوما راحة مخططان",
+    "planned_few": "{{count}} أيام راحة مخططة",
+    "planned_many": "{{count}} يوم راحة مخططًا",
+    "planned_other": "{{count}} يوم راحة مخطط",
+    "tip": "الراحة تساعد عضلاتك على التعافي"
+  }
 }

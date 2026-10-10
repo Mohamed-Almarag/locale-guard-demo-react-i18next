@@ -3,5 +3,10 @@
   "count_other": "{{count}}回のトレーニング",
   "minutes_other": "{{count}}分のトレーニング",
   "streak_other": "{{count}}日連続",
-  "start": "トレーニングを始める"
+  "start": "トレーニングを始める",
+  "rest": {
+    "title": "休息日",
+    "planned_other": "休息日を{{count}}日予定",
+    "tip": "休息は筋肉の回復を助けます"
+  }
 }

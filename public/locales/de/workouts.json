@@ -4,5 +4,11 @@
   "count_other": "{{count}} Trainings",
   "minutes_one": "{{count}} Minute Training",
   "minutes_other": "{{count}} Minuten Training",
-  "start": "Training starten"
+  "start": "Training starten",
+  "rest": {
+    "title": "Ruhetage",
+    "planned_one": "{{count}} Ruhetag geplant",
+    "planned_other": "{{count}} Ruhetage geplant",
+    "tip": "Ruhe hilft deinen Muskeln, sich zu erholen"
+  }
 }
