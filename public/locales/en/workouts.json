@@ -6,5 +6,11 @@
   "minutes_other": "{{count}} minutes of training",
   "streak_one": "{{count}} day in a row",
   "streak_other": "{{count}} days in a row",
-  "start": "Start a workout"
+  "start": "Start a workout",
+  "rest": {
+    "title": "Rest days",
+    "planned_one": "{{count}} rest day planned",
+    "planned_other": "{{count}} rest days planned",
+    "tip": "Rest helps your muscles recover"
+  }
 }
