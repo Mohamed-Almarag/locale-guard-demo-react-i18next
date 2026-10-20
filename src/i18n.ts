@@ -18,7 +18,7 @@ void i18n
   .init({
     lng: 'en',
     fallbackLng: 'en',
-    ns: ['common', 'workouts'],
+    ns: ['common', 'workouts', 'goals'],
     defaultNS: 'common',
     backend: { loadPath: '/locales/{{lng}}/{{ns}}.json' },
     interpolation: { escapeValue: false }

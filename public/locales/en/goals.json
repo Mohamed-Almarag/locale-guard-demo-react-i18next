@@ -1,0 +1,8 @@
+{
+  "title": "Weekly goal",
+  "sessions_one": "{{count}} session a week",
+  "sessions_other": "{{count}} sessions a week",
+  "progress": "{{done}} of {{target}} done",
+  "reset": "Reset goal",
+  "reward": "Reach your goal to unlock the {{badge}} badge"
+}
