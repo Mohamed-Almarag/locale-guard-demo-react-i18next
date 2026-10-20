@@ -10,7 +10,7 @@ export const languages = [
 ] as const
 
 // Messages live in public/locales/{language}/{namespace}.json and are loaded
-// on demand. Plurals use i18next suffixes: workouts_one, workouts_other, and
+// on demand. Plurals use i18next suffixes: count_one, count_other, and
 // for Arabic also _zero, _two, _few and _many.
 void i18n
   .use(HttpBackend)
