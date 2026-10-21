@@ -1,5 +1,6 @@
 import { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Goals } from './Goals'
 import { Workouts } from './Workouts'
 import { languages } from './i18n'
 
@@ -28,6 +29,7 @@ export function App() {
       </header>
       <main>
         <Workouts />
+        <Goals />
       </main>
     </>
   )

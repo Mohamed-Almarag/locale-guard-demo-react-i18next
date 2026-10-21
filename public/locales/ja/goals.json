@@ -1,0 +1,7 @@
+{
+  "title": "週間目標",
+  "sessions_other": "週{{num}}回",
+  "progress": "{{target}}回中{{done}}回完了",
+  "reset": "",
+  "reward": "目標を達成して{{badge}}バッジを獲得しよう"
+}
